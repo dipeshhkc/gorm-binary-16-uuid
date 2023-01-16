@@ -2,6 +2,8 @@
 
 This repository aims to create custom binary(16) datatype for GORM v2.
 
+Read [this](https://articles.wesionary.team/implementation-of-uuid-and-binary-16-in-gorm-v2-1c329c352c91) medium article for full explanation
+
 ### This Repository contains
 
 1. [BeforeCreate Hook ](https://gorm.io/docs/hooks.html#Creating-an-object)
