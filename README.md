@@ -1,4 +1,4 @@
-## Binary(16) UUID custom Gorm datatype implementation
+## Binary(16) UUID Custom Gorm Datatype Implementation
 
 This repository aims to create custom binary(16) datatype for GORM v2.
 
